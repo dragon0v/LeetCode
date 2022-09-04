@@ -1,3 +1,4 @@
+from itertools import reduce
 class Solution:
     def numberOfWays(self, startPos: int, endPos: int, k: int) -> int:
         if (startPos-endPos+k) % 2!=0:
