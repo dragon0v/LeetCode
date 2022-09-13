@@ -2,7 +2,7 @@
 @REM git remote add origin git@github.com:dragon0v/LeetCode.git
 @REM git config credential.helper store
 git add .
-git commit -m "update 第 310 场周赛"
+git commit -m "update 155 591 670"
 git push -u origin
 
 
