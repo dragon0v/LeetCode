@@ -1,7 +1,7 @@
 from typing import *
 class Solution:
     def canFormArray(self, arr: List[int], pieces: List[List[int]]) -> bool:
-        # 检查元素是否相同 
+        # 检查元素是否相同，其实不需要这步，在下面字典查找不存在则返回Flase即可
         p2 = []
         for p in pieces:
             for pp in p:
