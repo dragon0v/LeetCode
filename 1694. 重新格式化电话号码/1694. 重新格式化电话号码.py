@@ -1,5 +1,6 @@
 class Solution:
     def reformatNumber(self, number):
+        # 一次遍历+修改末尾
         # 123-456-78-90 需要进一步处理
         # 123-456-789 去掉最后一位
         # 123-456-78 可以直接return
