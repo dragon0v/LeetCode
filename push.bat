@@ -2,7 +2,8 @@
 @REM git remote add origin git@github.com:dragon0v/LeetCode.git
 @REM git config credential.helper store
 git add .
-git commit -m "update 1773"
+@REM 中文会乱码, use English
+git commit -m "update 100 784 & 137th weekly contest"
 git push -u origin
 
 
