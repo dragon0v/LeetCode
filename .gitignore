@@ -2,3 +2,4 @@
 # Other files and folders
 .dist
 .vscode
+*.pdf
