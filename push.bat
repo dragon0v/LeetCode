@@ -3,7 +3,7 @@
 @REM git config credential.helper store
 git add .
 @REM 中文会乱码, use English
-git commit -m "update 1752"
+git commit -m "update notes"
 git push -u origin
 
 
