@@ -5,6 +5,6 @@
 git add .
 @REM commit信息尽量 use English
 git commit -m "测试中文乱码问题"
-@REM git push -u origin
+git push -u origin
 
 
