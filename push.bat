@@ -4,7 +4,7 @@
 @REM git config --global core.quotepath false  -中文编码问题依旧
 git add .
 @REM use English
-git commit -m "update 1812"
+git commit -m "update 1780"
 git push -u origin
 
 
