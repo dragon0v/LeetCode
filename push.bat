@@ -5,7 +5,7 @@
 @REM 力扣周赛的题目应在结束后commit
 git add .
 @REM use English
-git commit -m "update 6274 new retuen method"
+git commit -m "update 1759"
 git push -u origin
 
 
