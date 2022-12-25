@@ -15,6 +15,7 @@ class Solution:
             score.append(ts)
         
         ss = sorted(zip(score,student_id), key=lambda x: (-x[0],x[1]))
-        print(ss)
+        # print(ss)
         
         return list(map(lambda x:x[1],ss[:k]))
+        # return [i for _,i in ss[:k]]
