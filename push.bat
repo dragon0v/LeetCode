@@ -6,6 +6,6 @@
 git add .
 @REM use English
 git commit -m "update 1754 suffix array"
-git push -u origin
+git push -u origin -f
 
 
