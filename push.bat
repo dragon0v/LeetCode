@@ -5,7 +5,7 @@
 @REM 力扣周赛的题目应在结束后commit
 git add .
 @REM use English
-git commit -m "update 1275 1276"
+git commit -m "update 121 382 2283 2284"
 git push -u origin
 
 
